@@ -41,8 +41,8 @@ body {
     font-family: Arial, sans-serif;
     font-size: 6em;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
-    -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
-    -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: unset; 
     opacity: 0;
     animation: appear 1s ease forwards, move 3s ease infinite alternate;
 }
@@ -52,7 +52,7 @@ body {
     font-size: 2em;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
     -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
-    -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
+    -webkit-text-fill-color: unset; /* Для кроссбраузерной поддержки */
     opacity: 0;
     animation: appear 1s ease forwards, move 3s ease infinite alternate;
 }
