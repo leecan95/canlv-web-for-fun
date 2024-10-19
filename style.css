@@ -41,7 +41,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 6em;
     color: #FF77B7;
-    background: linear-gradient(to bottom, #4ad382, #3faeec);
+    background: linear-gradient(to bottom, #FF77B7, #D91656);
     -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
     -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
     opacity: 0;
@@ -52,7 +52,7 @@ body {
     font-family: Arial, sans-serif;
     font-size: 2em;
     color: #FF77B7;
-    background: linear-gradient(to bottom, #4ad382, #3faeec);
+    background: linear-gradient(to bottom, #FF77B7, #D91656);
     -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
     -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
     opacity: 0;
