@@ -37,7 +37,7 @@ body {
 }
 
 .animated_march_text {
-    padding-top: 1em;
+    padding-top: 2em;
     font-family: Arial, sans-serif;
     font-size: 6em;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
@@ -47,7 +47,7 @@ body {
     animation: appear 1s ease forwards, move 3s ease infinite alternate;
 }
 .animated_march_text2 {
-    padding-top: 1em;
+    padding-top: 2em;
     font-family: Arial, sans-serif;
     font-size: 2em;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
