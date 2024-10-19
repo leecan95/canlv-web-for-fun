@@ -40,7 +40,6 @@ body {
     padding-top: 2em;
     font-family: Arial, sans-serif;
     font-size: 6em;
-    color: #FF77B7;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
     -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
     -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
@@ -51,7 +50,6 @@ body {
     padding-top: 2em;
     font-family: Arial, sans-serif;
     font-size: 2em;
-    color: #FF77B7;
     background: linear-gradient(to bottom, #FF77B7, #D91656);
     -webkit-background-clip: text; /* Для кроссбраузерной поддержки */
     -webkit-text-fill-color: transparent; /* Для кроссбраузерной поддержки */
