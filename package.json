@@ -1,0 +1,11 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "https://k1ng-ali.github.io/Happy-women-s-day/",
+  "main": "java.js",
+  "scripts": {
+    "start": "node java.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
